@@ -1,7 +1,4 @@
 public class SistemaCadastro {
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		//criamos uma pessoa no sistema
 		Pessoa marcos = new Pessoa("13523255233","Marcos");
